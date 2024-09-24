@@ -1,4 +1,5 @@
 # demo
 This is my first repository
 <br>
-Author - Ayush gupta
+Author - Ayush (Gupta)
+
